@@ -9,8 +9,12 @@ $ git clone https://github.com/Samchafi78/Machine-Learning-project.git
 Accédez à votre dossier cloné:
 $ cd Projet_machine_learning
 
-Exécuter le script principal:
-$ python main.py
+Exécuter jupyter-notebook:
+$ jupyter-notebook
+
+Ouvrez le fichier Projet_ML_CHAFI_Samir.ipynb
+Allez dans "run" puis cliquer sur "run all Cells"
+
 
 # 2) Description du Projet
 Ce projet vise à prédire la présence ou l'absence de maladies cardiaques à partir d'un ensemble de données médicales. Le jeu de données utilisé contient des informations sur différents facteurs médicaux tels que l'âge, la pression artérielle, le cholestérol, et des caractéristiques catégorielles comme le type de douleur thoracique.
