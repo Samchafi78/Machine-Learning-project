@@ -12,7 +12,7 @@ $ cd Projet_machine_learning
 Exécuter jupyter-notebook:
 $ jupyter-notebook
 
-Ouvrez le fichier Projet_ML_CHAFI_Samir.ipynb
+Ouvrez le fichier Projet_ML_CHAFI_Samir.ipynb et raw_merged_heart_dataset.csv
 Allez dans "run" puis cliquer sur "run all Cells"
 
 
