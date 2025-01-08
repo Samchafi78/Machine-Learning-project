@@ -15,6 +15,8 @@ $ jupyter-notebook
 Ouvrez le fichier Projet_ML_CHAFI_Samir.ipynb et raw_merged_heart_dataset.csv
 Allez dans "run" puis cliquer sur "run all Cells"
 
+Sinon ouvrez juste le fichier .ipynb sur Git afin de voir les résultats du projet déjà obtenue précédemment
+
 
 # 2) Description du Projet
 Ce projet vise à prédire la présence ou l'absence de maladies cardiaques à partir d'un ensemble de données médicales. Le jeu de données utilisé contient des informations sur différents facteurs médicaux tels que l'âge, la pression artérielle, le cholestérol, et des caractéristiques catégorielles comme le type de douleur thoracique.
